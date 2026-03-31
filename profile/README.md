@@ -3,5 +3,5 @@ a pretty insane developer specializing in developing backend solutions, obsessed
 
 wanna talk? contact me at discord "chlewtf"
 
-![Metrics](https://github.com/mak4ane/.github/blob/main/github-metrics.svg)
+![Metrics](https://github.com/mak4ne/.github/blob/main/github-metrics.svg)
 
